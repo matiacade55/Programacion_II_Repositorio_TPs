@@ -1,0 +1,3 @@
+Hola, este es un archivo de prueba.
+Estamos en el TP8 de Programación II.
+Probando excepciones.
